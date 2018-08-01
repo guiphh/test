@@ -1,6 +1,7 @@
 = Test entry
 Guillaume
 :docdatetime: 2015-01-01T00:00
+:data-uri:
 
 [[abstract]]
 this is a cool blog post
