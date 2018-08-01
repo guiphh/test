@@ -16,4 +16,6 @@ SELECT * FROM DUAL;
 - Second
 - Third
 
+image::image/sunset.jpg[]
+
 https://github.com/sdaschner/jaxrs-analyzer[JAX-RS Analyzer]
