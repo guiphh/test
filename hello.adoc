@@ -17,7 +17,7 @@ SELECT * FROM DUAL;
 - Second
 - Third
 
-image::https://github.com/guiphh/test/blob/master/image/sunset.jpg[]
+image::sunset.jpg[]
 
 https://github.com/sdaschner/jaxrs-analyzer[JAX-RS Analyzer]
 
