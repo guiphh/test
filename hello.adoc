@@ -21,4 +21,4 @@ image::sunset.jpg[]
 
 https://github.com/sdaschner/jaxrs-analyzer[JAX-RS Analyzer]
 
-edited
+Edited
